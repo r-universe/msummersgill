@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/msummersgill/msummersgill.r-universe.dev
 	branch = HEAD
+[submodule "plotly.core"]
+	path = plotly.core
+	url = https://github.com/msummersgill/plotly.R.core
